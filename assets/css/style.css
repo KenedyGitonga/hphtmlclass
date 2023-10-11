@@ -1,0 +1,26 @@
+.fruits{
+    border: darkorange 2px solid;
+    padding: 20px;
+    margin: 20px;
+    background-color: orange;
+    text-align: center;
+    color: white;
+}
+
+.cars{
+    border: darkorange 2px solid;
+    padding: 20px;
+    margin: 20px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+.FRUITS{
+    border: gold 2px solid;
+    padding: 20px;
+    margin: 20px;
+    background-color:greenyellow;
+    text-align: center;
+    color: white;
+}
